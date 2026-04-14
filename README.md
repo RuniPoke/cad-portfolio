@@ -14,12 +14,12 @@ I wanted to see how far I could push the lattice effect while keeping the walls 
 
 ---
 
-## Phone Stand
+## Cat Toy Ball — designed for Shadow
 
-A desktop phone stand with side walls, a front lip, and a cable routing hole in the base.
-Built to be practical — you can adjust the viewing angle and width to fit different devices.
+A rollable ball with cutout windows and a small bell ball trapped inside.
+Designed to be 3D printed — the holes are sized so a cat can bat it around without getting their paw stuck.
 
-![Phone Stand](phone_stand.png)
+![Cat Toy](cat_toy.png)
 
 ---
 
